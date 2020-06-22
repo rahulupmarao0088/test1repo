@@ -1,0 +1,3 @@
+databaseName=test_staging
+resourceCollection=pid_resources_staging
+policyCollection=policies_staging
